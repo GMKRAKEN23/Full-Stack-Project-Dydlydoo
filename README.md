@@ -14,7 +14,7 @@ Here's a detailed description of DidlyDoo's features:
 - Input Validation
 
 Duo work : yes   
-Collaborator : 
+Collaborator : Konihno
 
 Working Time: 5 days
 ## Technologies 
