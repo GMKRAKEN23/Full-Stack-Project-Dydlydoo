@@ -28,4 +28,4 @@ Working Time: 5 days
 ## Concept 
 a) Relationship between front-end and back-end  
 b) Complex file management  
-c) Understanding a builder within a project      
+c) Understanding a builder within a project    
